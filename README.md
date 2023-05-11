@@ -1,7 +1,7 @@
 - Hi, I’m @miguelybarra
 - I’m interested in computer science, I like programming but i´m still learning.
 - I’m currently studying computer science in the University of Seville.
-- I’m looking to collaborate on whatever can help me to learn more about any given programming language (right now learning Java, Python, HTML, JavaScript, SASS and some more)
+- I’m looking to collaborate on whatever can help me to learn more about any given programming language (right now learning Java, Python, HTML, JavaScript and some more)
 - You can reach me by sending an email to miguel.ybarra.mym@gmail.com
 
 <!---
